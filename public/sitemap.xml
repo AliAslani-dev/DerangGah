@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Home page -->
   <url>
-    <loc>https://derang-gah.vercel.app/</loc>
+    <loc>https://derang-gah.vercel.app/pages/home</loc>
     <lastmod>2025-10-14</lastmod>
     <priority>1.00</priority>
   </url>
